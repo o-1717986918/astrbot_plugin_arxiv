@@ -1,12 +1,6 @@
 name: astrbot_plugin_arxiv
 display_name: arXiv 论文助手
-description: "自动检索和下载 arXiv 论文的 AI Agent 插件，支持关键词搜索、分类筛选和 PDF 下载。"
+desc: "自动检索和下载 arXiv 论文的 AI Agent 插件，支持关键词搜索、分类筛选和 PDF 下载。"
 author: win98
 version: 1.0.0
 repo: https://github.com/o-1717986918/astrbot_plugin_arxiv
-support_platforms:
-  - qq_official
-  - telegram
-  - discord
-  - wecom
-astrbot_version: ">=4.16,<5"
